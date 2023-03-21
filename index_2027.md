@@ -2,42 +2,28 @@
 layout: resume
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
 
-## Related Experience
 
-### Internships
+## Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`October 2022 – Present`
+CyberHub Syndicate Co. 
+__Virual Reality Developer__, Atlanta, GA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked on immersive Virtual Reality experiences for clients
+- Used animation to create player experience
+- Organize with project managers and developers to maintain exisiting Virtual Environments
 
-### Data Science Lead
+
+## Projects
 
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
@@ -70,14 +56,6 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
