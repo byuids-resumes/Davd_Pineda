@@ -1,8 +1,3 @@
----
-layout: resume
-title: Brigham Young's Resume
----
-
 ## Education
 
 `Expected 2025`
